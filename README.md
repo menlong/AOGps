@@ -1,9 +1,11 @@
 1.
-After the game is started.
+run game
 
 2.
-Press F2.
-
+Run me
 
 3.
-Happy game
+Press F2
+
+
+Okay, no guy can kill me now.
